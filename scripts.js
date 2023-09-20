@@ -88,4 +88,3 @@ function removeItem(data) {
 
 showValues()
 
-
